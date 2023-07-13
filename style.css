@@ -1,0 +1,76 @@
+/** @format */
+body {
+    background-image: url("floral.jpg.jpg");
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+  }
+  
+  th {
+    background-color: #7d944d;
+    color: rgb(0, 0, 0);
+  }
+  
+  td {
+    color: #000000;
+    background-color: #fcfcfc;
+  }
+  
+  p {
+    color: #2b5373;
+    font-size: 14px;
+  }
+  
+  table {
+    widows: 100px;
+  }
+  th,
+  td {
+    font-family: 'Montserrat', sans-serif;
+    width: 200px;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #000000;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  td:hover {
+    background-color: #ccd5c2;
+    
+  }
+  
+  th,
+  td {
+    padding: 5px;
+    width: 300px;
+  }
+  
+  input {
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 15px;
+    border: 1px dashed #000000;
+    width: 200px;
+    height: 10px;
+    margin-bottom: 40px;
+    padding: 10px;
+  }
+  
+  .form {
+    display: flex;
+
+  }
+  
+  form {
+    width: 500px;
+    background: transparent;
+    text-align: justify;
+    
+  }
+
+  
+  #header {
+    width: 250px;
+    text-align: center;
+  }
+
+  
