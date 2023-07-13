@@ -1,13 +1,14 @@
 /** @format */
 body {
-    background-image: url("floral.jpg.jpg");
+    background-image: url("nye.jpg"); 
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    background-repeat: no-repeat;
+     background-size: cover;
   }
   
   th {
-    background-color: #7d944d;
-    color: rgb(0, 0, 0);
+    background-color: #0a456f;
+    color: rgb(255, 255, 255);
   }
   
   td {
@@ -35,7 +36,7 @@ body {
   }
   
   td:hover {
-    background-color: #ccd5c2;
+    background-color: #52c7e4;
     
   }
   
@@ -63,8 +64,8 @@ body {
   form {
     width: 500px;
     background: transparent;
-    text-align: justify;
-    
+    text-align: center;
+    color: rgb(0, 0, 0);
   }
 
   
